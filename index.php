@@ -11,7 +11,7 @@
         <h1>Calculadora Básica</h1>
         <h2>Nombre: Maríano Jiménez Gómez</h2>
         <h3>Grado: 9 Grupo: A</h3>
-        <form method="post" action="">
+        <form method="post" action="">ccc
             <input type="number" name="num1" required placeholder="Número 1">
             <select name="operation" required>
                 <option value="add">Sumar</option>
